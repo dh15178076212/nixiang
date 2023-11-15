@@ -36,9 +36,3 @@ curl_GET.txt  存放所有的 get 请求的 curl
 curl_POST.txt 存放所有的 post 请求的 curl
 error.txt     存放所有解析错误的请求
 ```
-
-![image-20231115114505489](readme.assets\image-20231115114505489.png)
-
-![image-20231115130132116](readme.assets\image-20231115130132116.png)
-
-![image-20231115130444793](readme.assets\image-20231115130444793.png)
